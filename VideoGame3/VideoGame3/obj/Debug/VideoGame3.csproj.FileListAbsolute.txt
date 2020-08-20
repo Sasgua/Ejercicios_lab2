@@ -1,0 +1,6 @@
+D:\FACULTAD\LABORATORIO\LAB2\VideoGame3\VideoGame3\bin\Debug\VideoGame3.exe.config
+D:\FACULTAD\LABORATORIO\LAB2\VideoGame3\VideoGame3\bin\Debug\VideoGame3.exe
+D:\FACULTAD\LABORATORIO\LAB2\VideoGame3\VideoGame3\bin\Debug\VideoGame3.pdb
+D:\FACULTAD\LABORATORIO\LAB2\VideoGame3\VideoGame3\obj\Debug\VideoGame3.csproj.CoreCompileInputs.cache
+D:\FACULTAD\LABORATORIO\LAB2\VideoGame3\VideoGame3\obj\Debug\VideoGame3.exe
+D:\FACULTAD\LABORATORIO\LAB2\VideoGame3\VideoGame3\obj\Debug\VideoGame3.pdb

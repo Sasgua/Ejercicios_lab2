@@ -1,0 +1,7 @@
+D:\FACULTAD\LABORATORIO\LAB2\VideGame4\VideGame4\bin\Debug\VideGame4.exe.config
+D:\FACULTAD\LABORATORIO\LAB2\VideGame4\VideGame4\bin\Debug\VideGame4.exe
+D:\FACULTAD\LABORATORIO\LAB2\VideGame4\VideGame4\bin\Debug\VideGame4.pdb
+D:\FACULTAD\LABORATORIO\LAB2\VideGame4\VideGame4\obj\Debug\VideGame4.csproj.CoreCompileInputs.cache
+D:\FACULTAD\LABORATORIO\LAB2\VideGame4\VideGame4\obj\Debug\VideGame4.exe
+D:\FACULTAD\LABORATORIO\LAB2\VideGame4\VideGame4\obj\Debug\VideGame4.pdb
+D:\FACULTAD\LABORATORIO\LAB2\VideGame4\VideGame4\obj\Debug\VideGame4.csprojAssemblyReference.cache

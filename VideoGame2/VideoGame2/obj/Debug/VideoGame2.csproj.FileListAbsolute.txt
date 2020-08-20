@@ -1,0 +1,7 @@
+D:\FACULTAD\LABORATORIO\LAB2\VideoGame2\VideoGame2\bin\Debug\VideoGame2.exe.config
+D:\FACULTAD\LABORATORIO\LAB2\VideoGame2\VideoGame2\bin\Debug\VideoGame2.exe
+D:\FACULTAD\LABORATORIO\LAB2\VideoGame2\VideoGame2\bin\Debug\VideoGame2.pdb
+D:\FACULTAD\LABORATORIO\LAB2\VideoGame2\VideoGame2\obj\Debug\VideoGame2.csproj.CoreCompileInputs.cache
+D:\FACULTAD\LABORATORIO\LAB2\VideoGame2\VideoGame2\obj\Debug\VideoGame2.exe
+D:\FACULTAD\LABORATORIO\LAB2\VideoGame2\VideoGame2\obj\Debug\VideoGame2.pdb
+D:\FACULTAD\LABORATORIO\LAB2\VideoGame2\VideoGame2\obj\Debug\VideoGame2.csprojAssemblyReference.cache
